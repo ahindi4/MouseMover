@@ -9,5 +9,5 @@ Procedure to activate the program:
 2) Unzip its contents
 3) Open your terminal
 4) Navigate to where the unzipped repo is downloaded
-5) type the following to run the script  "python CurseMover.py"
-6) And enjoy being "active"! 
+5) Type the following to run the script  "python CurseMover.py"
+6) Enjoy being "active"! 
